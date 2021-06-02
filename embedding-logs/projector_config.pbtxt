@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "features:0"
+  metadata_path: "/content/drive/MyDrive/Colab Notebooks/embedding-logs/metadata_classes.tsv"
+  sprite {
+    image_path: "/content/drive/MyDrive/Colab Notebooks/embedding-logs/sprite_classes.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
