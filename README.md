@@ -1,4 +1,4 @@
-# Embedding
+# Image Embedding
 # Image Embedding with Deep Neural Network Architectures
 
 **Steps through run the code**
